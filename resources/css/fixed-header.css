@@ -19,4 +19,13 @@
   #nova .content {
     padding-top: 60px;
   }
+  .h-header {
+    padding-right: 2.2rem !important;
+  }
+}
+
+@media (min-width: 992px) {
+  .h-header {
+    padding-right: 13rem !important;
+  }
 }
